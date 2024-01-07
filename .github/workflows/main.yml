@@ -1,4 +1,4 @@
-name: Selene
+name: build
 
 on: [push]
 
